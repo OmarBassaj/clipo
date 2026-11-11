@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <style>
+    .i { fill: #000; } .p { fill: #fff; } .s { fill: none; stroke: #000; stroke-width: 1.8; stroke-linecap: round; }
+    @media (prefers-color-scheme: dark) {
+      .i { fill: #fff; } .p { fill: #111; } .s { stroke: #fff; }
+    }
+  </style>
+  <rect class="i" x="4.2" y="7" width="23.6" height="23.6" rx="5.5"/>
+  <rect class="i" x="4.2" y="5.8" width="23.6" height="23.6" rx="5.5"/>
+  <rect class="p" x="6.6" y="8.2" width="18.8" height="18.8" rx="3.1"/>
+  <rect class="i" x="9.2" y="4.4" width="13.6" height="4.6" rx="1.8"/>
+  <rect class="i" x="12" y="1" width="8" height="5.4" rx="2.4"/>
+  <rect class="p" x="14.3" y="2.7" width="3.4" height="1.9" rx="0.95"/>
+  <ellipse class="i" cx="12" cy="16.2" rx="1.6" ry="1.8"/>
+  <ellipse class="i" cx="20" cy="16.2" rx="1.6" ry="1.8"/>
+  <path class="s" d="M 12.6,21.4 Q 16,24.8 19.4,21.4"/>
+</svg>
